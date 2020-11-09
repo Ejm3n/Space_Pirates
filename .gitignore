@@ -1,0 +1,7 @@
+Library/**
+Logs/**
+obj/**
+Packages/**
+.vs/**
+Assembly-CSharp.csproj
+Skillbox_Lab.sln
